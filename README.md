@@ -12,3 +12,12 @@ Flow 1 and Flow 3 finds any user input with a specified hashtag (#canyoublockcha
 ![TrustPanda Screenshot](/TrustPanda3.png)
 
 To get it to work, you have to replace "botxxxxx14:ReplaceWithYourBotTokenHere" with your own Telegram Bot token, and replace "https://stampd.io/api/v2/init?secret_key=SECRET&client_id=SECRETUSER" with your own Stampd token.
+
+If you deploy correctly, you'll be able to interact with the bot, using the following hashtags:
+
+## Sample 1
+![TrustPanda Screenshot](/TrustPandaA.png)
+## Sample 2
+![TrustPanda Screenshot](/TrustPandaB.png)
+## Sample 3
+![TrustPanda Screenshot](/TrustPandaC.png)
