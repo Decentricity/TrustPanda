@@ -2,7 +2,7 @@
 A chatbot I made that automagically puts everything you mention it in (on Telegram and Whatsapp) on Blockchain.
 Load the json file in the http://nodered.org flow editor and you should see the following screenshots.
 You can safely ignore Flow 2 since that is used for testing purposes (i.e., default responses, unrelated to Blockchain).
-Flow 1 and Flow 3 finds any user input with a specified hashtag (#canyoublockchainthis) and puts it on the Factom blockchain.
+Flow 1 and Flow 3 finds any user input with a specified hashtag (#blockchainthis) and puts it on the Factom blockchain.
 
 ## Flow 1
 ![TrustPanda Screenshot](/TrustPanda1.png)
